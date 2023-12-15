@@ -1,2 +1,2 @@
 # To-Do-List
-A simple to do list web application using HTML, CSS and Javasript
+A simple To-Do List web application using HTML, CSS and Javasript
